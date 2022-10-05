@@ -12,7 +12,7 @@ if (userNumber > 99 && userNumber < 1000)
 }
 else    
 {
-    Console.WriteLine("Чилсло не трёхзначное");
+    Console.WriteLine("Число не трёхзначное");
 }
 }
 secondDigit(userNumber);
